@@ -1,7 +1,12 @@
-# super-rentals
+# _"Super Rentals"_
 
-This README outlines the details of collaborating on this Ember application.
-A short introduction of this app could easily go here.
+#### _"Super Rentals", 3.19.17_
+
+#### By _**Michaela Davis**_
+
+
+## Description
+_A website for a vacation rental company called Super Rentals, which allows users to list their properties for visitors and vacationers to rent, similar to sites like AirBnB._
 
 ## Prerequisites
 
